@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt-get install nodejs vim git
+sudo apt-get install nodejs npm vim git default-jre default-jdk
 
 #mongodb
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
