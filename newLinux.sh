@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 #packages to install
 sudo apt-get install nodejs npm vim git default-jre default-jdk zsh tmux
 
